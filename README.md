@@ -11,6 +11,7 @@
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andre-webcode&layout=compact&langs_count=8&card_width=200&bg_color=00000000" />
 </a>
 </div>
+
   
  &nbsp;
  &nbsp;
@@ -24,12 +25,16 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
-  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+</div>
+
+
+ &nbsp;
+ <div align="center">
+ <p align="center">👨‍💻Estudando Atualmente</p>
+<img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
 </div>
 
  &nbsp;
- &nbsp;
-
 <div align="center"> 
 </a>
 <a href="https://www.linkedin.com/in/andre-sá/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank">
