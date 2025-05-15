@@ -4,10 +4,10 @@
 <h3 align="center">Olá! Eu sou André Sá 🖐</h3>&nbsp;
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/andre-webcode">
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api?username=andre-webcode&bg_color=00000000" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/andre-webcode">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andre-webcode&layout=compact&langs_count=8&card_width=200&bg_color=00000000" />
 </a>
 </div>
