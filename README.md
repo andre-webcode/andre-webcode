@@ -33,7 +33,7 @@
 <div align="center"> 
 </a>
 <a href="https://www.linkedin.com/in/andre-sá/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank">
- <a href="mailto:eduardo.duduribeiro1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></a> 
+ <a href="luizandre.progr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></a> 
 </div>&nbsp;&nbsp;
 
 <picture>
