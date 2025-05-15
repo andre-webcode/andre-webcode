@@ -2,7 +2,7 @@
 
 
 <h3 align="center">
-  😃️Olá!Eu sou <a href="https://www.linkedin.com/in/andre-sa/">André Sá 🖐</a>
+  😃️Olá!Eu sou <a href="https://www.linkedin.com/in/andre-sá/">André Sá 🖐</a>
 
 </h3>&nbsp;
 
