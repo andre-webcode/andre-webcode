@@ -1,46 +1,114 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anton&color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=[=++Seja+Bem-vindos,+Devs!++=])](https://git.io/typing-svg)
+
+# 👨‍💻 André Sá
+
+**`Desenvolvedor FullStack`**
 
 
+---
+### 🤖 Linguagens e Tecnologias
 
-<h3 align="center">
-  😃️Olá!Eu sou <a href="https://www.linkedin.com/in/andre-sá/">André Sá 🖐</a>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Node" 
+    title="Node"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React Native" 
+    title="React native"
+    width="30px" 
+    style="padding-right: 10px;" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
 
-</h3>&nbsp;
+<br/>
+<br/>
 
-<div align="center">
-  <a href="https://github.com/andre-webcode">
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api?username=andre-webcode&bg_color=00000000" />
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andre-webcode&layout=compact&langs_count=8&card_width=200&bg_color=00000000" />
-</a>
-</div>
+### 📊 Estatísticas
 
-  
- &nbsp;
- &nbsp;
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=andre-webcode&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-<p align="center">👨‍💻Linguagem e Tecnologia</p>
-<div align="center">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
-</div>
-
-
- &nbsp;
- <div align="center">
- <p align="center">👨‍💻Estudando Atualmente</p>
-<img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-</div>
-
- &nbsp;
-<div align="center"> 
-</a>
-<a href="https://www.linkedin.com/in/andre-sá/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank">
- <a href="luizandre.progr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></a> 
-</div>&nbsp;&nbsp;
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-webcode&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andre-webcode/andre-webcode/output/github-contribution-grid-snake-dark.svg">
