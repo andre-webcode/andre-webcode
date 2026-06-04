@@ -3,6 +3,12 @@
 # 👨‍💻 André Sá
 
 **`Desenvolvedor FullStack`**
+<p align="">
+  💻 Desenvolvedor Full Stack em formação | React, Next.js, Node.js
+</p
+<p align="center">
+  🚀 Construindo projetos práticos e evoluindo continuamente minhas habilidades em desenvolvimento web.
+</p>
 
 
 ---
@@ -88,6 +94,22 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img 
+    src="https://skillicons.dev/icons?i=postgres"
+    align="left" 
+    alt="postgres" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;"
+ />
+ <img
+     src="https://skillicons.dev/icons?i=mongodb"
+     align="left" 
+    alt="mongodb" 
+    title="Mongodb"
+    width="30px" 
+    style="padding-right: 10px;"
+     />
 
 <br/>
 <br/>
@@ -109,6 +131,7 @@
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-webcode&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andre-webcode/andre-webcode/output/github-contribution-grid-snake-dark.svg">
